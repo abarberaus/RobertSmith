@@ -1,0 +1,35 @@
+.top_info {
+	text-align: center;
+}
+
+.top_info > h1 {
+	color: black;
+	font-size: 60px;
+	text-shadow: 2px 2px 1px #3c3c3c;
+	letter-spacing: 12px;
+}
+
+.my_nav {
+    list-style:none;
+    margin:0;
+    padding:0;
+    text-align:center;
+    float: left;
+    width: 100%;
+}
+
+.my_nav > ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+.my_nav > ul > li {
+    display:inline;
+}
+
+.my_nav > ul > li > a {
+    display:inline-block;
+    padding:10px;
+}

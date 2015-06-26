@@ -1,3 +1,9 @@
+.pull-right > p {
+    font-weight: 700;
+    margin-top: 20px;
+    font-size: 15px;
+}
+
 .top_info {
 	text-align: center;
 }
@@ -23,6 +29,7 @@
     margin: 0;
     padding: 0;
     overflow: hidden;
+    width: 96.5%;
 }
 
 .my_nav > ul > li {
@@ -32,4 +39,10 @@
 .my_nav > ul > li > a {
     display:inline-block;
     padding:10px;
+}
+
+.glyphicon-star {
+    margin: 0 10px;
+    padding: 5px;
+    top: 3px;
 }

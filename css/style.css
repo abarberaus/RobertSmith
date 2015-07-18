@@ -1,0 +1,228 @@
+section {
+	padding: 30px 0;
+}
+
+.LENNY {
+	color: #aa8cc5;
+}
+
+img {
+	border-radius: 15px;
+}
+
+.margin_top {
+	margin-top: 20px;
+}
+
+.blue {
+  	color: rgb(44, 77, 144);
+}
+
+.my_anchor:hover {
+	text-decoration: none;
+	color: black;
+}
+
+.my_anchor > div > h3 {
+	color: black;
+}
+
+.blue:hover {
+	color: #990000;
+}
+
+/* My Carousel */
+.my_carousel {
+}
+
+.header-content-inner {
+	border: 10px solid white;
+}
+/* Nav */
+
+.paypal_nav {
+  background-color: #2C4D90;
+  border: 0;
+  color: rgba(255,255,255,.7);
+  font-family: 'Open Sans';
+  text-transform: uppercase;
+  font-size: 13px;
+  font-weight: 700;
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+
+.paypal_nav:hover {
+	color: white;
+}
+
+.white {
+	font-family: 'Merriweather';
+	text-transform: none;
+	color: white;
+}
+
+#mainNav {
+	background-color: #2C4D90;
+  	margin-bottom: 0;
+  	float: left;
+}
+
+@media screen and (max-width: 585px) {
+    .disappear_small {
+        display: none;
+    }
+}
+
+/* footer */
+
+footer {
+	text-align: center;
+	background-color: black;
+	padding-top: 15px;
+}
+
+footer > div > p {
+	color: #eee;
+}
+
+.s1 {
+	padding-top: 6.5%;
+	max-width: 950px;
+}
+.blog {
+	background-image: none;
+	background-color: #ffffff;
+}
+/* Volunteer */
+
+.v1 {
+	padding-top: 50px;
+	padding-bottom: 35px;
+}
+
+hr {
+	border-color: #990000;
+}
+
+.v_button {
+	width: 200px;
+}
+
+.box {
+	background-color: rgba(0,0,0,.6);
+  	margin-top: 40px;
+  	border-radius: 15px;
+}
+
+.box > div > h2 {
+	font-weight: 700;
+}
+
+/* Index */
+
+.opacity {
+	background-color: rgba(0,0,0,.6);
+	border-radius: 10px;
+	overflow: hidden;
+  	padding: 35px;
+}
+
+.opacity > div > h2 {
+	font-family: 'Merriweather';
+	font-size: 50px;
+	margin-top: 0;
+	text-shadow:
+   -1px -1px 0 #900,  
+    1px -1px 0 #900,
+    -1px 1px 0 #900,
+     1px 1px 0 #900;
+}
+
+.opacity > div > h3 {
+	font-family: 'Merriweather';
+	font-size: 40px;
+}
+
+.opacity > div > p {
+	font-family: 'Merriweather';
+	font-size: 16px;
+}
+
+/* About Lenny */
+
+.box > div > img {
+	max-width: 213px;
+}
+
+.box {
+	padding: 20px;
+}
+
+.three_pictures > img {
+	margin-bottom: 20px;
+}
+
+.v1_paragraph {
+	text-align: left;
+}
+
+/* Priorities */
+
+.priorities {
+	text-align: left;
+}
+
+.priorities > h3 {
+	font-size: 38px;
+	font-family: 'Merriweather';
+}
+
+.priorities > ul {
+	list-style: none;
+	padding-left: 0;
+}
+
+.priorities > ul > li {
+	font-size: 24px;
+	margin-bottom: 20px;
+	font-family: 'Open Sans';
+}
+
+.priorities > ul > li > p {
+	font-size: 15px;
+}
+
+.fa {
+	margin-right: 10px;
+}
+.glyphicon-star {
+	font-size: 28px;
+	color:red;
+	margin: 0 10px 0 15px;
+}
+
+.opacity > div > h4 {
+	font-size: 28px;
+	text-shadow:
+   -1px -1px 0 #900,  
+    1px -1px 0 #900,
+    -1px 1px 0 #900,
+     1px 1px 0 #900;
+}
+
+/* blog */
+
+.hang_in_there {
+	margin-top: 100px;
+}
+
+/* Backgrounds */
+
+.lenny_background {
+	background-image: url(../img/sunset.jpg);
+}
+
+.priorities_background {
+	background-image: url(../img/el_paso.jpg);
+}

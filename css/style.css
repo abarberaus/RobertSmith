@@ -63,9 +63,10 @@ img {
 }
 
 #mainNav {
-	background-color: #2C4D90;
+	background-color: #840C0C;
   	margin-bottom: 0;
   	float: left;
+  	border: none;
 }
 
 @media screen and (max-width: 585px) {
@@ -132,11 +133,6 @@ hr {
 	font-family: 'Merriweather';
 	font-size: 50px;
 	margin-top: 0;
-	text-shadow:
-   -1px -1px 0 #900,  
-    1px -1px 0 #900,
-    -1px 1px 0 #900,
-     1px 1px 0 #900;
 }
 
 .opacity > div > h3 {
@@ -204,11 +200,6 @@ hr {
 
 .opacity > div > h4 {
 	font-size: 28px;
-	text-shadow:
-   -1px -1px 0 #900,  
-    1px -1px 0 #900,
-    -1px 1px 0 #900,
-     1px 1px 0 #900;
 }
 
 /* blog */
@@ -220,9 +211,26 @@ hr {
 /* Backgrounds */
 
 .lenny_background {
-	background-image: url(../img/sunset.jpg);
+	background-image: url(../img/gavel.jpg);
 }
 
 .priorities_background {
 	background-image: url(../img/el_paso.jpg);
+}
+
+.rstitle {
+	list-style: none;
+	padding-left: 0px;
+}
+
+.rstitle > li {
+	font-size: 24px;
+}
+
+.line_right {
+	border-right: 1px #840C0C solid;
+}
+
+.btn {
+	border-radius: 2px;
 }

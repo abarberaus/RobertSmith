@@ -111,7 +111,7 @@ hr {
 }
 
 .box {
-	background-color: rgba(0,0,0,.6);
+	background-color: rgba(0,0,0,.725);
   	margin-top: 40px;
   	border-radius: 15px;
 }
@@ -123,7 +123,7 @@ hr {
 /* Index */
 
 .opacity {
-	background-color: rgba(0,0,0,.6);
+	background-color: rgba(0,0,0,.725);
 	border-radius: 10px;
 	overflow: hidden;
   	padding: 35px;
@@ -210,12 +210,8 @@ hr {
 
 /* Backgrounds */
 
-.lenny_background {
-	background-image: url(../img/gavel.jpg);
-}
-
-.priorities_background {
-	background-image: url(../img/el_paso.jpg);
+.about_background {
+	background-image: url(../img/lawyer_books.jpg);
 }
 
 .rstitle {
@@ -233,4 +229,7 @@ hr {
 
 .btn {
 	border-radius: 2px;
+}
+.left_align{
+	text-align: left;
 }

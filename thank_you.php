@@ -8,7 +8,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <meta name="description" content="">
         <meta name="author" content="">
-        <title>Lenny Morales for District Attorney</title>
+        <title>Robert Smith - Attorney At Law</title>
         <!-- Bootstrap Core CSS -->
         <link rel="stylesheet" href="css/bootstrap.min.css" type="text/css">
         <!-- Custom Fonts -->
@@ -29,7 +29,7 @@
         <![endif]-->
     </head>
     <body id="page-top">
-        <nav id="mainNav" class="navbar navbar-default navbar-fixed-top">
+         <nav id="mainNav" class="navbar navbar-default navbar-fixed-top">
             <div class="container-fluid">
                 <!-- Brand and toggle get grouped for better mobile display -->
                 <div class="navbar-header">
@@ -39,34 +39,23 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                     </button>
-                    <a class="navbar-brand page-scroll" href="index.html"><span class="white">Lenny Morales<span class="disappear_small"> for District Attorney</span></span></a>
+                    <a class="navbar-brand page-scroll" href="#page-top"><span class="white">Robert Smith <span class="disappear_small">Attorney at Law</span></span></a>
                 </div>
                 <!-- Collect the nav links, forms, and other content for toggling -->
                 <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                     <ul class="nav navbar-nav navbar-left">
                         <li>
-                            <a class="page-scroll" href="lenny.html">About Lenny</a>
+                            <a class="page-scroll" href="about.html">About Robert</a>
                         </li>
                         <!-- Priorities page to be updated with Lenny's content
                         <li>
                             <a class="page-scroll" href="priorities.html">Priorities</a>
                         </li>
-                        -->
-                        <li>
-                            <a class="page-scroll" href="volunteer.php">Volunteer</a>
-                        </li>
+                         -->
                     </ul>
                     <ul class="nav navbar-nav navbar-right">
-                        <li>
-                            <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-                                <input type="hidden" name="cmd" value="_s-xclick">
-                                <input type="hidden" name="hosted_button_id" value="B27YPKLAR27PC">
-                                <input type="submit" value="Donate Now" name="submit" title="PayPal - The safer, easier way to pay online!" class="paypal_nav">
-                                <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
-                            </form>
-                        </li>
+                        <li><a href="contact.php">Contact</a></li>
                         <li><a href="https://www.facebook.com/lennyforda" style="padding-right: 0px; padding-top: 12px;"><i class="fa fa-facebook-square fa-2x"></i></a></li>
-                        <li><a href="https://twitter.com/Lenny4DA" style="padding-top: 12px;"><i class="fa fa-twitter-square fa-2x"></i></a></li>
                     </ul>
                 </div>
                 <!-- /.navbar-collapse -->
@@ -79,7 +68,7 @@
                 <div class="row">
                     <div class="box">
                         <div class="col-lg-12">
-                            <h2>Thank You for Your Interest in Volunteering!</h2>
+                            <h2>Thank you, we have recieved your message.</h2>
                             <hr>
                         </div>
                         <div class="col-md-12">
@@ -92,7 +81,7 @@
         </header>
         <footer class="footer">
             <div class="container">
-                <p>Copyright &copy; 2015. All Rights Reserved Lenny Morales</p>
+                <p>Copyright &copy; 2015. All Rights Reserved Robert Smith</p>
             </div>
         </footer>
         <!-- jQuery -->

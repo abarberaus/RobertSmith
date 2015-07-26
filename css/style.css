@@ -227,6 +227,12 @@ hr {
 	border-right: 1px #840C0C solid;
 }
 
+@media (max-width: 770px) {
+	.line_right {
+		border: none;
+	}
+}
+
 .btn {
 	border-radius: 2px;
 }

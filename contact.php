@@ -74,7 +74,7 @@
                     </ul>
                     <ul class="nav navbar-nav navbar-right">
                         <li><a href="contact.php">Contact</a></li>
-                        <li><a href="https://www.facebook.com/lennyforda" style="padding-right: 0px; padding-top: 12px;"><i class="fa fa-facebook-square fa-2x"></i></a></li>
+                        <!-- <li><a href="https://www.facebook.com/lennyforda" style="padding-right: 0px; padding-top: 12px;"><i class="fa fa-facebook-square fa-2x"></i></a></li> -->
                     </ul>
                 </div>
                 <!-- /.navbar-collapse -->
@@ -87,10 +87,9 @@
                 <div class="row">
                     <div class="box">
                         <div class="col-md-4 col-xs-12 left_align">
-                            <br>
+                            <h4>The Law Office of Robert Smith</h4>
                             <p>Phone: 512-710-5297</p>
                             <p>Address: 1104 Nueces St, Ste. 202 Austin, TX  78701</p>
-                            <br>
                             <img src="https://maps.googleapis.com/maps/api/staticmap?center=%221104%20Nueces%20St%2C%20Ste%2E%20202%22%2BAustin%2BTX%2B78701-0000&zoom=14&size=360x240&maptype=roadmap&markers=color:red%7C%221104%20Nueces%20St%2C%20Ste%2E%20202%22%2BAustin%2BTX%2B78701-0000" style="width: 100%; max-width: 500px;">
                             <br>
                             <br>

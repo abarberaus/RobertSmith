@@ -39,7 +39,7 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                     </button>
-                    <a class="navbar-brand page-scroll" href="#page-top"><span class="white">Robert Smith <span class="disappear_small">Attorney at Law</span></span></a>
+                    <a class="navbar-brand page-scroll" href="index.html"><span class="white">Robert Smith <span class="disappear_small">Attorney at Law</span></span></a>
                 </div>
                 <!-- Collect the nav links, forms, and other content for toggling -->
                 <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
@@ -55,7 +55,7 @@
                     </ul>
                     <ul class="nav navbar-nav navbar-right">
                         <li><a href="contact.php">Contact</a></li>
-                        <li><a href="https://www.facebook.com/lennyforda" style="padding-right: 0px; padding-top: 12px;"><i class="fa fa-facebook-square fa-2x"></i></a></li>
+                        <!-- <li><a href="https://www.facebook.com/lennyforda" style="padding-right: 0px; padding-top: 12px;"><i class="fa fa-facebook-square fa-2x"></i></a></li> -->
                     </ul>
                 </div>
                 <!-- /.navbar-collapse -->

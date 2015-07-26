@@ -27,25 +27,9 @@
         <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
         <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
         <![endif]-->
-        <style>
-        #map-canvas {
-        width: 500px;
-        height: 400px;
-        }
-        </style>
-        <script src="https://maps.googleapis.com/maps/api/js"></script>
-        <script>
-        function initialize() {
-        var mapCanvas = document.getElementById('map-canvas');
-        var mapOptions = {
-        center: new google.maps.LatLng(30.2747749, -97.7467618),
-        zoom: 8,
-        mapTypeId: google.maps.MapTypeId.ROADMAP
-        }
-        var map = new google.maps.Map(mapCanvas, mapOptions)
-        }
-        google.maps.event.addDomListener(window, 'load', initialize);
-        </script>
+        <!-- My Fonts -->
+        <link href='http://fonts.googleapis.com/css?family=Roboto+Slab:400,700' rel='stylesheet' type='text/css'>
+
     </head>
     <body id="page-top">
         <nav id="mainNav" class="navbar navbar-default navbar-fixed-top">
